@@ -1,5 +1,6 @@
 /*this program will take in user input from the console and eventually be exported to a
 sql database
+Marcus Cantu 3/21/2017
 */
 
 #include <iostream>
